@@ -57,6 +57,7 @@ First, before you start to invest why not learn a thing or two?
 |[Tipranks](https://www.tipranks.com/)|Analyst and bloggers recommendations and performance records|
 |[YCharts](https://ycharts.com/)|Investment research platform based on charts|
 |[KoyFin](https://www.koyfin.com/)|Investment research tool|
+|[La Plata](https://laplata.one/en/)|Free research on Argentina's public companies, with dated BYMA market data, financial indicators, exchange rates, and economic context.|
 |[Seeking Alpha](https://seekingalpha.com/)|Some people write their research. Some people pay.|
 |[ROIC.ai](https://www.roic.ai)|Minimalistic financial data for public companies|
 
